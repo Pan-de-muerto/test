@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087232367116",
+    "project_id": "terra-peninsular-4582b",
+    "storage_bucket": "terra-peninsular-4582b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087232367116:android:d9e80345f2ad38485dac29",
+        "android_client_info": {
+          "package_name": "com.example.terra_reports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087232367116-6o0hakl4sc9710ebulpok79ofvuk0r64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu47Qo6U7mSZ8CG4JNcoEOcwMQJl0pp7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087232367116-6o0hakl4sc9710ebulpok79ofvuk0r64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
