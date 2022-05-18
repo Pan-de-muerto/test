@@ -14,7 +14,7 @@ class _MakeReportState extends State<MakeReport> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Generar Reporte")),
+      appBar: AppBar(title: Text("Nuevo Reporte")),
       body: Container(
         margin: EdgeInsets.all(24),
         child: Form(
